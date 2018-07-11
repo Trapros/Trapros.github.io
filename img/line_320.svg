@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="676px" height="377px" viewBox="0 0 676 377" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="公司首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="1440" transform="translate(-352.000000, -106.000000)">
+            <g id="Group-3" transform="translate(352.000000, 107.000000)">
+                <g id="Group">
+                    <path d="M0.322368421,9.24338624 L195.677632,100.756614" id="Line" stroke="#B88975"></path>
+                    <path d="M0.322368421,0.243386243 L195.677632,91.7566138" id="Line" stroke="#A87866"></path>
+                </g>
+                <g id="Group-2" transform="translate(468.000000, 201.000000)">
+                    <g id="Group">
+                        <path d="M0.342105263,10.1678657 L207.657895,105.745803" id="Line" stroke="#B88975"></path>
+                        <path d="M0.342105263,0.254196643 L207.657895,95.8321343" id="Line" stroke="#A87866"></path>
+                    </g>
+                    <g id="Group" transform="translate(0.000000, 46.000000)">
+                        <path d="M0.342105263,10.0986193 L207.657895,105.025641" id="Line" stroke="#B88975"></path>
+                        <path d="M0.342105263,0.252465483 L207.657895,95.1794872" id="Line" stroke="#A87866"></path>
+                        <path d="M0.342105263,32.8205128 L207.657895,127.747535" id="Line" stroke="#B88975"></path>
+                        <path d="M0.342105263,22.974359 L207.657895,117.901381" id="Line" stroke="#A87866"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

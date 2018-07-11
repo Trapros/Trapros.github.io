@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="20px" viewBox="0 0 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="90.1546556%" y1="50%" x2="5.38504464%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="97.4507767%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#D7A38B" offset="0%"></stop>
+            <stop stop-color="#A87867" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#D7A38B" offset="0%"></stop>
+            <stop stop-color="#A87867" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="公司首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-46.000000, -43.000000)" stroke-width="0.8">
+            <g id="Group-3" transform="translate(46.000000, 43.000000)">
+                <g id="Group-2">
+                    <g id="Group">
+                        <rect id="Rectangle-5" stroke="url(#linearGradient-1)" x="0.4" y="0.4" width="18.2" height="5.40408163"></rect>
+                        <path d="M0.4,0.4 L0.4,5.80408163 L18.6,5.80408163 L18.6,0.4 L0.4,0.4 Z" id="Path-2" stroke="url(#linearGradient-2)"></path>
+                    </g>
+                    <polyline id="Path-5" stroke="url(#linearGradient-3)" points="6.59183673 0.775510204 6.59183673 18.6122449 12.0204082 18.6122449 12.0204082 6.08858011"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
