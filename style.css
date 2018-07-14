@@ -276,6 +276,10 @@ input{
 *{
 	/*color: blue*/
 }
+
+body {
+	font-family:PingFangSC-Regular, sans-serif; ;
+}
 .float-font{
 	margin-top: -6px;
 }
@@ -384,7 +388,8 @@ input{
 }
 .img2-3{
 	margin-left: 0;
-	text-align: left
+	text-align: left;
+	margin-bottom: 48px;
 }
 .product-2{
 	width: 100%;
@@ -414,7 +419,7 @@ input{
 	width: 100%;
 	display: flex;
 	flex-direction: column-reverse;
-	margin-top: -50px
+	margin-top: -50px;
 }
 .team_1{
 	float: none;
@@ -452,7 +457,7 @@ input{
 	width: 80%;
 	float: none;
 	margin: auto;
-	margin-top: 30px
+	margin-top: 30px;
 	/*margin-left: 140px*/
 }
 .team_4{
@@ -462,6 +467,9 @@ input{
 	text-align: center;
 	width: 250px;
 	margin-top: 20px
+}
+.last_one {
+	margin-bottom: 48px;
 }
 .end{
 	background-image: url(./img/bg_pattern.svg);
