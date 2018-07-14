@@ -209,15 +209,15 @@ input{
 .footer{
 	margin-top: 30px;
 	text-align: center;
-	height: 110px
+	height: 110px;
 }
 .name{
     margin-top: 10px
 }
 .end{
 	background-image: url(./img/bg_pattern.svg);
-	margin-top: 93px;
-	height: 700px
+	margin-top: 94px;
+	height: 740px
 }
 
 @media(max-width: 1440px){
@@ -278,7 +278,7 @@ input{
 }
 
 body {
-	font-family:PingFangSC-Regular, sans-serif; ;
+	font-family:PingFangSC-Thin, sans-serif;
 }
 .float-font{
 	margin-top: -6px;
@@ -294,7 +294,7 @@ body {
 .product{
 	text-align: center;
 	margin-top: 110px;
-	height: 750px
+	height: 800px
 }
 .product-line{
 	padding-top: 40px;
@@ -364,7 +364,7 @@ body {
 .img1-1{
 	/*font-size: 20px;*/
 	margin-left: 0px;
-	margin-top: 0px
+	margin-top: -20px;
 }
 .img1-2{
 	font-size: 16px;
@@ -380,7 +380,7 @@ body {
 .img2-1{
 	font-size: 20px;
 	margin-left: 0
-	margin-top: 20px
+	margin-top: 10px
 }
 .img2-2{
 	text-align: left
@@ -468,17 +468,8 @@ body {
 	width: 250px;
 	margin-top: 20px
 }
-.last_one {
-	margin-bottom: 48px;
-}
 .end{
 	background-image: url(./img/bg_pattern.svg);
 	margin-top: 93px;
-	height: 1050px
-}
-.footer{
-	margin-top: 48px;
-	text-align: center;
-	height: 50px
-}
+	height: 1150px
 }
